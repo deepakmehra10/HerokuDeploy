@@ -43,7 +43,7 @@ play.i18n.langs = [ "en" ]
  play.evolutions.enabled=false
 
 # You can disable evolutions for a specific datasource if necessary
-# play.evolutions.db.default.enabled=false
+ play.evolutions.db.default.enabled=false
 
 #intern database
 
