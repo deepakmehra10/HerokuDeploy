@@ -8,8 +8,7 @@
 # This must be changed for production, but we recommend not changing it in this file.
 #
 # See http://www.playframework.com/documentation/latest/ApplicationSecret for more details.
-play.crypto.secret = ";HyLQHxqYXPJPU0:KnQpEh6t;r:KFmy0@;K0?y:sfTnNwuBS6=yfZIL<5RQVy9hr
-"
+play.crypto.secret ="changename"
 
 # The application languages
 # ~~~~~
@@ -41,7 +40,7 @@ play.i18n.langs = [ "en" ]
 # Evolutions
 # ~~~~~
 # You can disable evolutions if needed
- play.evolutions.enabled=true
+ play.evolutions.enabled=false 	 	
 
 # You can disable evolutions for a specific datasource if necessary
 #play.evolutions.db.default.enabled=false
